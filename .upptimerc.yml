@@ -1,14 +1,32 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: yc97463 # Your GitHub organization or username, where this repository lives
+repo: ndhu-uptime # The name of this repository
 
 sites:
-  - name: RPage
-    url: https://www.ndhu.edu.tw
   - name: DHSA RPage
     url: https://dhsa.ndhu.edu.tw
+    slug: dhsa-rpage
+    icon: https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png
   - name: DHSA API
     url: https://api.dhsa.ndhu.edu.tw
+    slug: dhsa-api
+    icon: https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png
+  - name: NDHU RPage
+    url: https://www.ndhu.edu.tw
+    slug: ndhu-rpage
+  - name: "校務系統"
+    url: https://sys.ndhu.edu.tw/INC/SSO_RWD/Login.aspx
+    slug: sso
+  - name: "標籤"
+    url: https://web.ndhu.edu.tw/academic/syslib/showname.aspx
+    slug: name-tag
+  - name: "選課系統"
+    url: https://sys.ndhu.edu.tw/aa/class/subjselect/
+    slug: course 
+  - name: "e 學苑"
+    url: http://www.elearn.ndhu.edu.tw
+    slug: elearn
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,7 +41,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/yc97463/ndhu-uptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
