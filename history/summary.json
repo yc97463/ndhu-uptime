@@ -23,11 +23,11 @@
     "icon": "https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png",
     "slug": "dhsa-api",
     "status": "up",
-    "uptime": "91.68%",
+    "uptime": "91.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "91.68%",
+    "uptimeYear": "91.70%",
     "time": 1231,
     "timeDay": 897,
     "timeWeek": 907,
@@ -90,9 +90,9 @@
     "url": "https://sys.ndhu.edu.tw/INC/SSO_RWD/Login.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/sys.ndhu.edu.tw.ico",
     "slug": "sso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -102,6 +102,7 @@
     "timeMonth": 1491,
     "timeYear": 1429,
     "dailyMinutesDown": {
+      "2022-12-14": 0,
       "2022-11-23": 21
     }
   },
@@ -128,9 +129,9 @@
     "url": "https://sys.ndhu.edu.tw/aa/class/subjselect/",
     "icon": "https://icons.duckduckgo.com/ip3/sys.ndhu.edu.tw.ico",
     "slug": "course",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
@@ -140,6 +141,7 @@
     "timeMonth": 268,
     "timeYear": 266,
     "dailyMinutesDown": {
+      "2022-12-14": 0,
       "2022-11-23": 20,
       "2022-11-08": 30
     }
