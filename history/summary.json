@@ -23,11 +23,11 @@
     "icon": "https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png",
     "slug": "dhsa-api",
     "status": "up",
-    "uptime": "92.62%",
+    "uptime": "92.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "92.62%",
+    "uptimeYear": "92.66%",
     "time": 1223,
     "timeDay": 1317,
     "timeWeek": 1118,
@@ -90,11 +90,11 @@
     "url": "https://sys.ndhu.edu.tw/INC/SSO_RWD/Login.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/sys.ndhu.edu.tw.ico",
     "slug": "sso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
     "time": 1439,
     "timeDay": 1505,
@@ -102,6 +102,7 @@
     "timeMonth": 1443,
     "timeYear": 1439,
     "dailyMinutesDown": {
+      "2022-12-20": 1,
       "2022-12-14": 12,
       "2022-11-23": 21
     }
@@ -129,10 +130,10 @@
     "url": "https://sys.ndhu.edu.tw/aa/class/subjselect/",
     "icon": "https://icons.duckduckgo.com/ip3/sys.ndhu.edu.tw.ico",
     "slug": "course",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.88%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.92%",
     "time": 261,
@@ -141,6 +142,7 @@
     "timeMonth": 243,
     "timeYear": 261,
     "dailyMinutesDown": {
+      "2022-12-20": 1,
       "2022-12-14": 11,
       "2022-11-23": 20,
       "2022-11-08": 30
@@ -151,9 +153,9 @@
     "url": "http://www.elearn.ndhu.edu.tw",
     "icon": "https://icons.duckduckgo.com/ip3/www.elearn.ndhu.edu.tw.ico",
     "slug": "elearn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -162,6 +164,8 @@
     "timeWeek": 745,
     "timeMonth": 655,
     "timeYear": 660,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-20": 0
+    }
   }
 ]
