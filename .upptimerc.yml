@@ -16,7 +16,7 @@ sites:
     slug: dhsa-api-ndhu-me
     icon: https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png
   - name: DHSA API Preview ver. (preview.api.ndhu.me)
-    url: https://pewview.api.dhsa.ndhu.me
+    url: https://preview.api.dhsa.ndhu.me
     slug: preview-dhsa-api-ndhu-me
     icon: https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png
   - name: NDHU RPage
