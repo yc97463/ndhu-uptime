@@ -7,13 +7,17 @@ sites:
     url: https://dhsa.ndhu.edu.tw
     slug: dhsa-rpage
     icon: https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png
-  - name: DHSA API (api.ndhu)
+  - name: DHSA API (api.ndhu.edu.tw)
     url: https://api.dhsa.ndhu.edu.tw
     slug: dhsa-api
     icon: https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png
-  - name: DHSA API (api.dstw)
-    url: https://api.dhsa.dstw.dev
-    slug: dhsa-api-dstw
+  - name: DHSA API (api.ndhu.me)
+    url: https://api.dhsa.ndhu.me
+    slug: dhsa-api-ndhu-me
+    icon: https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png
+  - name: DHSA API Preview ver. (preview.api.ndhu.me)
+    url: https://pewview.api.dhsa.ndhu.me
+    slug: preview-dhsa-api-ndhu-me
     icon: https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png
   - name: NDHU RPage
     url: https://www.ndhu.edu.tw
