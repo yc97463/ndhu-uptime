@@ -35,9 +35,9 @@
     "url": "https://api.dhsa.ndhu.edu.tw",
     "icon": "https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png",
     "slug": "dhsa-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.18%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.18%",
@@ -47,6 +47,7 @@
     "timeMonth": 896,
     "timeYear": 1045,
     "dailyMinutesDown": {
+      "2023-06-13": 0,
       "2023-04-30": 100,
       "2023-04-29": 1,
       "2023-04-24": 59,
@@ -68,9 +69,9 @@
     "url": "https://api.dhsa.ndhu.me",
     "icon": "https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png",
     "slug": "dhsa-api-ndhu-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
@@ -80,6 +81,7 @@
     "timeMonth": 927,
     "timeYear": 1016,
     "dailyMinutesDown": {
+      "2023-06-13": 0,
       "2023-04-30": 100,
       "2023-04-29": 1,
       "2023-04-24": 45
@@ -90,9 +92,9 @@
     "url": "https://preview.api.dhsa.ndhu.me",
     "icon": "https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png",
     "slug": "preview-dhsa-api-ndhu-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -102,6 +104,7 @@
     "timeMonth": 962,
     "timeYear": 943,
     "dailyMinutesDown": {
+      "2023-06-13": 0,
       "2023-04-24": 27,
       "2023-04-17": 9
     }
