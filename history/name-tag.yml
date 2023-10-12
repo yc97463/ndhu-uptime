@@ -1,7 +1,7 @@
 url: https://web.ndhu.edu.tw/academic/syslib/showname.aspx
-status: up
-code: 200
-responseTime: 1122
-lastUpdated: 2023-10-11T23:10:17.647Z
+status: down
+code: 500
+responseTime: 989
+lastUpdated: 2023-10-12T00:57:06.336Z
 startTime: 2022-10-28T07:01:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
