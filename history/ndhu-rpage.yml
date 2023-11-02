@@ -1,7 +1,7 @@
 url: https://www.ndhu.edu.tw
-status: up
-code: 200
-responseTime: 1867
-lastUpdated: 2023-11-01T23:10:32.165Z
+status: down
+code: 500
+responseTime: 1092
+lastUpdated: 2023-11-02T04:46:46.587Z
 startTime: 2022-10-28T07:01:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
