@@ -1,7 +1,7 @@
 url: https://sys.ndhu.edu.tw/aa/class/subjselect/
-status: up
-code: 200
-responseTime: 225
-lastUpdated: 2024-01-18T23:11:24.320Z
+status: down
+code: 502
+responseTime: 282
+lastUpdated: 2024-01-19T04:13:01.124Z
 startTime: 2022-10-28T07:01:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
