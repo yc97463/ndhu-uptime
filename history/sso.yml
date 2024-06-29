@@ -1,7 +1,7 @@
 url: https://sys.ndhu.edu.tw/INC/SSO_RWD/Login.aspx
-status: down
-code: 503
-responseTime: 940
-lastUpdated: 2024-06-29T09:53:05.855Z
+status: up
+code: 200
+responseTime: 1236
+lastUpdated: 2024-06-29T10:12:43.571Z
 startTime: 2022-10-28T07:01:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
