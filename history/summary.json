@@ -5,16 +5,16 @@
     "icon": "https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png",
     "slug": "dhsa-rpage",
     "status": "up",
-    "uptime": "89.71%",
+    "uptime": "89.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "81.27%",
-    "time": 2505,
-    "timeDay": 1715,
-    "timeWeek": 1598,
-    "timeMonth": 1740,
-    "timeYear": 1769,
+    "time": 2504,
+    "timeDay": 1359,
+    "timeWeek": 1565,
+    "timeMonth": 1719,
+    "timeYear": 1768,
     "dailyMinutesDown": {
       "2025-01-20": 51,
       "2025-01-18": 754,
@@ -106,10 +106,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
-    "time": 999,
-    "timeDay": 895,
-    "timeWeek": 1065,
-    "timeMonth": 970,
+    "time": 998,
+    "timeDay": 775,
+    "timeWeek": 1034,
+    "timeMonth": 964,
     "timeYear": 994,
     "dailyMinutesDown": {
       "2025-01-20": 208,
@@ -126,7 +126,7 @@
     "icon": "https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png",
     "slug": "dhsa-api-ndhu-me",
     "status": "down",
-    "uptime": "20.57%",
+    "uptime": "20.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -137,7 +137,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-01": 108,
+      "2025-04-02": 99,
+      "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -500,8 +501,7 @@
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
-      "2024-04-03": 1440,
-      "2024-04-02": 1440
+      "2024-04-03": 1440
     }
   },
   {
@@ -510,7 +510,7 @@
     "icon": "https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png",
     "slug": "preview-dhsa-api-ndhu-me",
     "status": "down",
-    "uptime": "20.17%",
+    "uptime": "20.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -521,7 +521,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-01": 108,
+      "2025-04-02": 99,
+      "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -884,8 +885,7 @@
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
-      "2024-04-03": 1440,
-      "2024-04-02": 1440
+      "2024-04-03": 1440
     }
   },
   {
@@ -899,11 +899,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.78%",
-    "time": 2494,
-    "timeDay": 1528,
-    "timeWeek": 1801,
-    "timeMonth": 1762,
-    "timeYear": 1901,
+    "time": 2492,
+    "timeDay": 1336,
+    "timeWeek": 1661,
+    "timeMonth": 1736,
+    "timeYear": 1900,
     "dailyMinutesDown": {
       "2025-02-27": 22,
       "2025-01-20": 49,
@@ -976,10 +976,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.67%",
     "time": 1452,
-    "timeDay": 1601,
-    "timeWeek": 1744,
-    "timeMonth": 1486,
-    "timeYear": 1442,
+    "timeDay": 1375,
+    "timeWeek": 1664,
+    "timeMonth": 1484,
+    "timeYear": 1441,
     "dailyMinutesDown": {
       "2025-03-24": 17,
       "2025-02-26": 20,
@@ -1009,10 +1009,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.19%",
-    "time": 1163,
-    "timeDay": 1043,
-    "timeWeek": 1134,
-    "timeMonth": 1075,
+    "time": 1161,
+    "timeDay": 875,
+    "timeWeek": 1075,
+    "timeMonth": 1056,
     "timeYear": 1172,
     "dailyMinutesDown": {
       "2025-03-24": 17,
@@ -1049,9 +1049,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.78%",
     "time": 328,
-    "timeDay": 233,
-    "timeWeek": 240,
-    "timeMonth": 236,
+    "timeDay": 183,
+    "timeWeek": 235,
+    "timeMonth": 234,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2025-03-24": 16,
@@ -1080,9 +1080,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.69%",
     "time": 723,
-    "timeDay": 551,
-    "timeWeek": 769,
-    "timeMonth": 664,
+    "timeDay": 565,
+    "timeWeek": 773,
+    "timeMonth": 650,
     "timeYear": 679,
     "dailyMinutesDown": {
       "2025-01-20": 22,
@@ -1096,8 +1096,7 @@
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
-      "2024-04-03": 1404,
-      "2024-04-02": 17
+      "2024-04-03": 1404
     }
   }
 ]
