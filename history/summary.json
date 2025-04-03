@@ -5,15 +5,15 @@
     "icon": "https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png",
     "slug": "dhsa-rpage",
     "status": "up",
-    "uptime": "89.72%",
+    "uptime": "89.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.27%",
+    "uptimeYear": "81.29%",
     "time": 2504,
-    "timeDay": 1359,
-    "timeWeek": 1565,
-    "timeMonth": 1719,
+    "timeDay": 1626,
+    "timeWeek": 1564,
+    "timeMonth": 1718,
     "timeYear": 1768,
     "dailyMinutesDown": {
       "2025-01-20": 51,
@@ -91,8 +91,7 @@
       "2024-04-23": 59,
       "2024-04-09": 1177,
       "2024-04-08": 1440,
-      "2024-04-07": 1371,
-      "2024-04-03": 357
+      "2024-04-07": 1371
     }
   },
   {
@@ -105,19 +104,18 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.40%",
+    "uptimeYear": "99.41%",
     "time": 998,
-    "timeDay": 775,
-    "timeWeek": 1034,
-    "timeMonth": 964,
-    "timeYear": 994,
+    "timeDay": 690,
+    "timeWeek": 960,
+    "timeMonth": 949,
+    "timeYear": 993,
     "dailyMinutesDown": {
       "2025-01-20": 208,
       "2025-01-19": 1440,
       "2025-01-18": 1303,
       "2024-08-20": 48,
-      "2024-04-23": 58,
-      "2024-04-03": 117
+      "2024-04-23": 58
     }
   },
   {
@@ -126,7 +124,7 @@
     "icon": "https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png",
     "slug": "dhsa-api-ndhu-me",
     "status": "down",
-    "uptime": "20.54%",
+    "uptime": "20.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -137,7 +135,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-02": 99,
+      "2025-04-03": 97,
+      "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
@@ -500,8 +499,7 @@
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
-      "2024-04-04": 1440,
-      "2024-04-03": 1440
+      "2024-04-04": 1440
     }
   },
   {
@@ -510,7 +508,7 @@
     "icon": "https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png",
     "slug": "preview-dhsa-api-ndhu-me",
     "status": "down",
-    "uptime": "20.14%",
+    "uptime": "20.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -521,7 +519,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-02": 99,
+      "2025-04-03": 97,
+      "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
@@ -884,8 +883,7 @@
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
-      "2024-04-04": 1440,
-      "2024-04-03": 1440
+      "2024-04-04": 1440
     }
   },
   {
@@ -894,16 +892,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ndhu.edu.tw.ico",
     "slug": "ndhu-rpage",
     "status": "up",
-    "uptime": "94.48%",
+    "uptime": "94.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.78%",
-    "time": 2492,
-    "timeDay": 1336,
-    "timeWeek": 1661,
-    "timeMonth": 1736,
-    "timeYear": 1900,
+    "uptimeYear": "86.79%",
+    "time": 2491,
+    "timeDay": 1239,
+    "timeWeek": 1550,
+    "timeMonth": 1717,
+    "timeYear": 1899,
     "dailyMinutesDown": {
       "2025-02-27": 22,
       "2025-01-20": 49,
@@ -960,8 +958,7 @@
       "2024-04-23": 57,
       "2024-04-09": 1178,
       "2024-04-08": 1440,
-      "2024-04-07": 1370,
-      "2024-04-03": 355
+      "2024-04-07": 1370
     }
   },
   {
@@ -974,11 +971,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.67%",
+    "uptimeYear": "99.69%",
     "time": 1452,
-    "timeDay": 1375,
-    "timeWeek": 1664,
-    "timeMonth": 1484,
+    "timeDay": 1652,
+    "timeWeek": 1695,
+    "timeMonth": 1490,
     "timeYear": 1441,
     "dailyMinutesDown": {
       "2025-03-24": 17,
@@ -994,8 +991,7 @@
       "2024-06-30": 266,
       "2024-06-29": 185,
       "2024-06-28": 122,
-      "2024-04-23": 56,
-      "2024-04-03": 115
+      "2024-04-23": 56
     }
   },
   {
@@ -1008,12 +1004,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.20%",
     "time": 1161,
-    "timeDay": 875,
-    "timeWeek": 1075,
-    "timeMonth": 1056,
-    "timeYear": 1172,
+    "timeDay": 867,
+    "timeWeek": 1039,
+    "timeMonth": 1050,
+    "timeYear": 1171,
     "dailyMinutesDown": {
       "2025-03-24": 17,
       "2025-01-20": 23,
@@ -1033,8 +1029,7 @@
       "2024-06-29": 17,
       "2024-06-27": 95,
       "2024-06-26": 23,
-      "2024-04-23": 56,
-      "2024-04-03": 115
+      "2024-04-23": 56
     }
   },
   {
@@ -1047,12 +1042,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.80%",
     "time": 328,
-    "timeDay": 183,
-    "timeWeek": 235,
+    "timeDay": 176,
+    "timeWeek": 226,
     "timeMonth": 234,
-    "timeYear": 328,
+    "timeYear": 326,
     "dailyMinutesDown": {
       "2025-03-24": 16,
       "2025-02-26": 20,
@@ -1064,8 +1059,7 @@
       "2024-08-23": 761,
       "2024-08-22": 21,
       "2024-08-20": 45,
-      "2024-04-23": 55,
-      "2024-04-03": 114
+      "2024-04-23": 55
     }
   },
   {
@@ -1074,15 +1068,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.elearn.ndhu.edu.tw.ico",
     "slug": "elearn",
     "status": "up",
-    "uptime": "99.02%",
+    "uptime": "99.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.69%",
+    "uptimeYear": "97.71%",
     "time": 723,
-    "timeDay": 565,
-    "timeWeek": 773,
-    "timeMonth": 650,
+    "timeDay": 535,
+    "timeWeek": 707,
+    "timeMonth": 640,
     "timeYear": 679,
     "dailyMinutesDown": {
       "2025-01-20": 22,
@@ -1095,8 +1089,7 @@
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
-      "2024-04-04": 1440,
-      "2024-04-03": 1404
+      "2024-04-04": 1440
     }
   }
 ]
