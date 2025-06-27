@@ -5,16 +5,16 @@
     "icon": "https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png",
     "slug": "dhsa-rpage",
     "status": "up",
-    "uptime": "90.62%",
+    "uptime": "90.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.41%",
-    "time": 1939,
-    "timeDay": 1652,
-    "timeWeek": 1681,
-    "timeMonth": 1610,
-    "timeYear": 1721,
+    "uptimeYear": "86.68%",
+    "time": 1937,
+    "timeDay": 1215,
+    "timeWeek": 1661,
+    "timeMonth": 1594,
+    "timeYear": 1719,
     "dailyMinutesDown": {
       "2025-04-29": 20,
       "2025-01-20": 51,
@@ -68,8 +68,7 @@
       "2024-07-01": 348,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
-      "2024-06-28": 1440,
-      "2024-06-27": 1440
+      "2024-06-28": 1440
     }
   },
   {
@@ -78,15 +77,15 @@
     "icon": "https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png",
     "slug": "dhsa-api",
     "status": "up",
-    "uptime": "98.38%",
+    "uptime": "98.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
-    "time": 995,
-    "timeDay": 1068,
-    "timeWeek": 1057,
-    "timeMonth": 1048,
+    "time": 994,
+    "timeDay": 802,
+    "timeWeek": 1027,
+    "timeMonth": 1040,
     "timeYear": 1004,
     "dailyMinutesDown": {
       "2025-04-29": 20,
@@ -102,7 +101,7 @@
     "icon": "https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png",
     "slug": "dhsa-api-ndhu-me",
     "status": "down",
-    "uptime": "18.36%",
+    "uptime": "18.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -113,7 +112,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-26": 108,
+      "2025-06-27": 109,
+      "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -476,8 +476,7 @@
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
-      "2024-06-28": 1440,
-      "2024-06-27": 1440
+      "2024-06-28": 1440
     }
   },
   {
@@ -486,7 +485,7 @@
     "icon": "https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png",
     "slug": "preview-dhsa-api-ndhu-me",
     "status": "down",
-    "uptime": "18.00%",
+    "uptime": "17.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -497,7 +496,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-26": 108,
+      "2025-06-27": 109,
+      "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -860,8 +860,7 @@
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
-      "2024-06-28": 1440,
-      "2024-06-27": 1440
+      "2024-06-28": 1440
     }
   },
   {
@@ -875,10 +874,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.82%",
-    "time": 1886,
-    "timeDay": 1938,
-    "timeWeek": 1770,
-    "timeMonth": 1740,
+    "time": 1884,
+    "timeDay": 1324,
+    "timeWeek": 1725,
+    "timeMonth": 1722,
     "timeYear": 1804,
     "dailyMinutesDown": {
       "2025-04-29": 19,
@@ -944,11 +943,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.69%",
-    "time": 1491,
-    "timeDay": 1961,
-    "timeWeek": 1591,
-    "timeMonth": 1515,
-    "timeYear": 1480,
+    "time": 1490,
+    "timeDay": 1369,
+    "timeWeek": 1497,
+    "timeMonth": 1498,
+    "timeYear": 1481,
     "dailyMinutesDown": {
       "2025-06-17": 57,
       "2025-05-21": 24,
@@ -978,12 +977,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.24%",
     "time": 1165,
-    "timeDay": 1219,
-    "timeWeek": 1190,
-    "timeMonth": 1146,
-    "timeYear": 1167,
+    "timeDay": 860,
+    "timeWeek": 1168,
+    "timeMonth": 1133,
+    "timeYear": 1168,
     "dailyMinutesDown": {
       "2025-04-29": 18,
       "2025-03-24": 17,
@@ -1001,8 +1000,7 @@
       "2024-07-30": 54,
       "2024-07-25": 21,
       "2024-07-05": 19,
-      "2024-06-29": 17,
-      "2024-06-27": 95
+      "2024-06-29": 17
     }
   },
   {
@@ -1017,10 +1015,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.80%",
     "time": 310,
-    "timeDay": 241,
-    "timeWeek": 220,
-    "timeMonth": 222,
-    "timeYear": 301,
+    "timeDay": 168,
+    "timeWeek": 217,
+    "timeMonth": 220,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2025-06-17": 20,
       "2025-05-21": 24,
@@ -1048,10 +1046,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 703,
-    "timeDay": 806,
-    "timeWeek": 679,
-    "timeMonth": 723,
+    "time": 702,
+    "timeDay": 558,
+    "timeWeek": 697,
+    "timeMonth": 714,
     "timeYear": 678,
     "dailyMinutesDown": {
       "2025-04-29": 17,
