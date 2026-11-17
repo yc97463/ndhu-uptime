@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1578,
-    "timeDay": 1679,
-    "timeWeek": 1482,
+    "time": 1577,
+    "timeDay": 1222,
+    "timeWeek": 1417,
     "timeMonth": 1501,
-    "timeYear": 1564,
+    "timeYear": 1563,
     "dailyMinutesDown": {
       "2026-06-24": 81,
       "2026-06-23": 115
@@ -26,18 +26,19 @@
     "icon": "https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png",
     "slug": "dhsa-api",
     "status": "down",
-    "uptime": "78.32%",
+    "uptime": "78.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "16.41%",
-    "time": 1027,
+    "uptimeYear": "16.12%",
+    "time": 1025,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 954,
     "dailyMinutesDown": {
-      "2026-11-16": 321,
+      "2026-11-17": 420,
+      "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
@@ -351,7 +352,7 @@
     "icon": "https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png",
     "slug": "dhsa-api-ndhu-me",
     "status": "down",
-    "uptime": "11.23%",
+    "uptime": "11.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -362,7 +363,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-16": 321,
+      "2026-11-17": 420,
+      "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
@@ -725,8 +727,7 @@
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
-      "2025-11-18": 1440,
-      "2025-11-17": 1440
+      "2025-11-18": 1440
     }
   },
   {
@@ -735,7 +736,7 @@
     "icon": "https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png",
     "slug": "preview-dhsa-api-ndhu-me",
     "status": "down",
-    "uptime": "11.02%",
+    "uptime": "11.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -746,7 +747,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-16": 322,
+      "2026-11-17": 420,
+      "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
@@ -1109,8 +1111,7 @@
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
-      "2025-11-18": 1440,
-      "2025-11-17": 1440
+      "2025-11-18": 1440
     }
   },
   {
@@ -1125,10 +1126,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1760,
-    "timeDay": 1701,
-    "timeWeek": 1730,
-    "timeMonth": 1676,
-    "timeYear": 1740,
+    "timeDay": 1296,
+    "timeWeek": 1666,
+    "timeMonth": 1679,
+    "timeYear": 1741,
     "dailyMinutesDown": {
       "2026-06-24": 82,
       "2026-06-23": 110
@@ -1146,10 +1147,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.37%",
     "time": 1477,
-    "timeDay": 1280,
-    "timeWeek": 1219,
-    "timeMonth": 1285,
-    "timeYear": 1438,
+    "timeDay": 1028,
+    "timeWeek": 1154,
+    "timeMonth": 1283,
+    "timeYear": 1437,
     "dailyMinutesDown": {
       "2025-11-19": 37,
       "2025-12-30": 32,
@@ -1183,10 +1184,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
     "time": 1220,
-    "timeDay": 1045,
-    "timeWeek": 1118,
-    "timeMonth": 1115,
-    "timeYear": 1205,
+    "timeDay": 1007,
+    "timeWeek": 1069,
+    "timeMonth": 1120,
+    "timeYear": 1206,
     "dailyMinutesDown": {
       "2025-11-19": 16,
       "2025-12-30": 31,
@@ -1216,11 +1217,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
-    "time": 452,
-    "timeDay": 781,
-    "timeWeek": 912,
+    "time": 453,
+    "timeDay": 589,
+    "timeWeek": 850,
     "timeMonth": 801,
-    "timeYear": 508,
+    "timeYear": 509,
     "dailyMinutesDown": {
       "2025-11-19": 37,
       "2025-12-30": 31,
@@ -1248,18 +1249,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.elearn.ndhu.edu.tw.ico",
     "slug": "elearn",
     "status": "down",
-    "uptime": "70.55%",
+    "uptime": "70.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 707,
+    "time": 708,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-16": 322,
+      "2026-11-17": 421,
+      "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
@@ -1622,8 +1624,7 @@
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
-      "2025-11-18": 1440,
-      "2025-11-17": 1440
+      "2025-11-18": 1440
     }
   }
 ]
