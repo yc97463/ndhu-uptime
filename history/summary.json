@@ -12,9 +12,9 @@
     "uptimeYear": "99.96%",
     "time": 1575,
     "timeDay": 1766,
-    "timeWeek": 1568,
-    "timeMonth": 1519,
-    "timeYear": 1565,
+    "timeWeek": 1571,
+    "timeMonth": 1520,
+    "timeYear": 1566,
     "dailyMinutesDown": {
       "2026-06-24": 81,
       "2026-06-23": 115
@@ -26,18 +26,19 @@
     "icon": "https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png",
     "slug": "dhsa-api",
     "status": "down",
-    "uptime": "77.84%",
+    "uptime": "77.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "13.92%",
+    "uptimeYear": "13.68%",
     "time": 1026,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 960,
+    "timeYear": 965,
     "dailyMinutesDown": {
-      "2026-11-25": 451,
+      "2026-11-26": 297,
+      "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
@@ -371,7 +372,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-25": 451,
+      "2026-11-26": 297,
+      "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
@@ -734,8 +736,7 @@
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
-      "2025-11-27": 1440,
-      "2025-11-26": 1440
+      "2025-11-27": 1440
     }
   },
   {
@@ -744,7 +745,7 @@
     "icon": "https://dhsa.ndhu.edu.tw/var/file/110/1110/msys_1110_5263550_18764.png",
     "slug": "preview-dhsa-api-ndhu-me",
     "status": "down",
-    "uptime": "10.94%",
+    "uptime": "10.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -755,7 +756,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-25": 451,
+      "2026-11-26": 297,
+      "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
@@ -1118,8 +1120,7 @@
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
-      "2025-11-27": 1440,
-      "2025-11-26": 1440
+      "2025-11-27": 1440
     }
   },
   {
@@ -1135,9 +1136,9 @@
     "uptimeYear": "99.96%",
     "time": 1756,
     "timeDay": 1774,
-    "timeWeek": 1657,
-    "timeMonth": 1641,
-    "timeYear": 1739,
+    "timeWeek": 1665,
+    "timeMonth": 1640,
+    "timeYear": 1741,
     "dailyMinutesDown": {
       "2026-06-24": 82,
       "2026-06-23": 110
@@ -1148,17 +1149,17 @@
     "url": "https://sys.ndhu.edu.tw/INC/SSO_RWD/Login.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/sys.ndhu.edu.tw.ico",
     "slug": "sso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.38%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.37%",
     "time": 1475,
     "timeDay": 1396,
-    "timeWeek": 1362,
-    "timeMonth": 1278,
-    "timeYear": 1439,
+    "timeWeek": 1386,
+    "timeMonth": 1268,
+    "timeYear": 1440,
     "dailyMinutesDown": {
       "2025-12-30": 32,
       "2026-01-22": 30,
@@ -1176,7 +1177,8 @@
       "2026-08-21": 889,
       "2026-08-20": 13,
       "2026-10-12": 108,
-      "2026-10-11": 588
+      "2026-10-11": 588,
+      "2026-11-26": 15
     }
   },
   {
@@ -1184,17 +1186,17 @@
     "url": "https://web.ndhu.edu.tw/academic/syslib/showname.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/web.ndhu.edu.tw.ico",
     "slug": "name-tag",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.47%",
-    "time": 1223,
+    "time": 1222,
     "timeDay": 1295,
-    "timeWeek": 1439,
-    "timeMonth": 1160,
-    "timeYear": 1210,
+    "timeWeek": 1477,
+    "timeMonth": 1158,
+    "timeYear": 1211,
     "dailyMinutesDown": {
       "2025-12-30": 31,
       "2026-01-22": 29,
@@ -1209,7 +1211,8 @@
       "2026-06-28": 72,
       "2026-08-21": 724,
       "2026-10-12": 108,
-      "2026-10-11": 583
+      "2026-10-11": 583,
+      "2026-11-26": 10
     }
   },
   {
@@ -1217,17 +1220,17 @@
     "url": "https://sys.ndhu.edu.tw/aa/class/subjselect/",
     "icon": "https://icons.duckduckgo.com/ip3/sys.ndhu.edu.tw.ico",
     "slug": "course",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.38%",
-    "time": 464,
+    "time": 465,
     "timeDay": 1173,
-    "timeWeek": 968,
-    "timeMonth": 859,
-    "timeYear": 527,
+    "timeWeek": 923,
+    "timeMonth": 861,
+    "timeYear": 528,
     "dailyMinutesDown": {
       "2025-12-30": 31,
       "2026-01-22": 29,
@@ -1245,7 +1248,8 @@
       "2026-08-21": 889,
       "2026-08-20": 8,
       "2026-10-12": 108,
-      "2026-10-11": 578
+      "2026-10-11": 578,
+      "2026-11-26": 5
     }
   },
   {
@@ -1254,7 +1258,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.elearn.ndhu.edu.tw.ico",
     "slug": "elearn",
     "status": "down",
-    "uptime": "70.12%",
+    "uptime": "70.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1265,7 +1269,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-25": 451,
+      "2026-11-26": 297,
+      "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
@@ -1628,8 +1633,7 @@
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
-      "2025-11-27": 1440,
-      "2025-11-26": 1440
+      "2025-11-27": 1440
     }
   }
 ]
